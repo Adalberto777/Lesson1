@@ -1,0 +1,15 @@
+D:\NewGeekBrains\Lesson1\Example001_Terminal\bin\Debug\net6.0\Example001_Terminal.exe
+D:\NewGeekBrains\Lesson1\Example001_Terminal\bin\Debug\net6.0\Example001_Terminal.deps.json
+D:\NewGeekBrains\Lesson1\Example001_Terminal\bin\Debug\net6.0\Example001_Terminal.runtimeconfig.json
+D:\NewGeekBrains\Lesson1\Example001_Terminal\bin\Debug\net6.0\Example001_Terminal.dll
+D:\NewGeekBrains\Lesson1\Example001_Terminal\bin\Debug\net6.0\Example001_Terminal.pdb
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.csproj.AssemblyReference.cache
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.AssemblyInfoInputs.cache
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.AssemblyInfo.cs
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.csproj.CoreCompileInputs.cache
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.dll
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\refint\Example001_Terminal.dll
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.pdb
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\Example001_Terminal.genruntimeconfig.cache
+D:\NewGeekBrains\Lesson1\Example001_Terminal\obj\Debug\net6.0\ref\Example001_Terminal.dll
