@@ -1,4 +1,4 @@
-﻿Console.WriteLine("WaitHandleExtensions is your name?");
+﻿Console.WriteLine("Whats is your name?");
 string username = Console.ReadLine();
-Console.WriteLine("Hello,");
+Console.Write("Hello, ");
 Console.WriteLine(username);
