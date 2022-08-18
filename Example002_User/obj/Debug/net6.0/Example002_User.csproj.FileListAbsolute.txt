@@ -1,0 +1,15 @@
+D:\NewGeekBrains\Lesson1\Example002_User\bin\Debug\net6.0\Example002_User.exe
+D:\NewGeekBrains\Lesson1\Example002_User\bin\Debug\net6.0\Example002_User.deps.json
+D:\NewGeekBrains\Lesson1\Example002_User\bin\Debug\net6.0\Example002_User.runtimeconfig.json
+D:\NewGeekBrains\Lesson1\Example002_User\bin\Debug\net6.0\Example002_User.dll
+D:\NewGeekBrains\Lesson1\Example002_User\bin\Debug\net6.0\Example002_User.pdb
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.csproj.AssemblyReference.cache
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.AssemblyInfoInputs.cache
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.AssemblyInfo.cs
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.csproj.CoreCompileInputs.cache
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.dll
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\refint\Example002_User.dll
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.pdb
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\Example002_User.genruntimeconfig.cache
+D:\NewGeekBrains\Lesson1\Example002_User\obj\Debug\net6.0\ref\Example002_User.dll
